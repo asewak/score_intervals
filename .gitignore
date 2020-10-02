@@ -37,3 +37,11 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+.DS_Store
+
+# Any large csv files
+*.csv
+
+# Any RDS files
+*.RDS
